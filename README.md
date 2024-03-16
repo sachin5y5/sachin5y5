@@ -2,8 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA in C++
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me at my linkdin profile
-- 😄 Pronouns: Er.
+- 📫 How to reach me at my linkdin profile by :- https://www.linkedin.com/in/sachin-kumar-609342250/
+- 😄 Pronouns: Er.Sachinkumar
 - ⚡ Fun fact: silent as well as voilent
 
 <!---
